@@ -1,0 +1,28 @@
+react-fastapi-app
+├── backend
+│   ├── src
+│   │   ├── api
+│   │   │   ├── __init__.py
+│   │   │   └── routes.py
+│   │   ├── core
+│   │   │   ├── __init__.py
+│   │   │   └── config.py
+│   │   └── main.py
+│   ├── requirements.txt
+│   └── README.md
+├── frontend
+│   ├── src
+│   │   ├── components
+│   │   │   └── index.ts
+│   │   ├── pages
+│   │   │   └── index.ts
+│   │   ├── services
+│   │   │   └── api.ts
+│   │   ├── types
+│   │   │   └── index.ts
+│   │   ├── App.tsx
+│   │   └── index.tsx
+│   ├── package.json
+│   ├── tsconfig.json
+│   └── README.md
+└── README.md
